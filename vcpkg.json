@@ -7,7 +7,7 @@
     "nlohmann-json",
     {
       "name": "usockets",
-      "version=": "0.8.8",
+      "version>=": "0.8.8",
       "default-features": false,
       "features": [ "network" ]
     },
