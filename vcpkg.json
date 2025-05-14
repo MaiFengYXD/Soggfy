@@ -7,9 +7,7 @@
     "nlohmann-json",
     {
       "name": "usockets",
-      "version>=": "0.8.8",
-      "default-features": false,
-      "features": [ "network" ]
+      "default-features": true
     },
     "uwebsockets",
     "libogg"
